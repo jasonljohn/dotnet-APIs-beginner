@@ -1,3 +1,9 @@
 {
-    "dotnet.defaultSolution": "MyDbBackend.sln"
+    "dotnet.defaultSolution": "MyDbBackend.sln",
+    "recommendations": [
+        "ms-dotnettools.vscode-dotnet-runtime",
+        "ms-dotnettools.csharp",
+        "humao.rest-client"
+    ],
+    "files.autoSave": "afterDelay"
 }
